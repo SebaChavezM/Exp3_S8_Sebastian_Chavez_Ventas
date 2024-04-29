@@ -1,0 +1,5 @@
+com\example\ventas\service\VentaServiceImplTest.class
+com\example\ventas\controller\VentaControllerTest.class
+com\example\ventas\repository\VentaRepositoryTest.class
+com\example\ventas\model\VentaTest.class
+com\example\ventas\VentasApplicationTests.class
